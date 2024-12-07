@@ -11,3 +11,4 @@ int main() {
 	cout << hex << new_n << "(16)" << endl;
 	cout << oct << new_n << "(8)";
 }
+07/12/2024
