@@ -1,7 +1,7 @@
 
 #include <iostream>
 using namespace std;
-
+// илья ну как
 int main() {
 	setlocale(LC_ALL, "Russian"); // переключение локализации консоли
 	unsigned int new_n, n;
@@ -11,4 +11,4 @@ int main() {
 	cout << hex << new_n << "(16)" << endl;
 	cout << oct << new_n << "(8)";
 }
-07/12/2024
+
